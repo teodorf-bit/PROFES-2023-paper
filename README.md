@@ -20,7 +20,7 @@ git clone https://github.com/teodorf-bit/PROFES-2023-paper.git
 To create the graph for the dataset run the jupyter notebook
 
 ```sh
-install-datasets-saab
+install-datasets-saab.ipynb
 ```
 
 To reproduce the results simply run
