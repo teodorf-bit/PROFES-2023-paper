@@ -12,13 +12,16 @@ Simply git clone the GraphLearning package
 git clone https://github.com/jwcalder/GraphLearning.git
 ```
 
-Then git clone the saab.py file
+Then git clone the following to download all the necessary files!
 
 ```sh
 git clone https://github.com/teodorf-bit/PROFES-2023-paper.git
 ```
+To create the graph for the dataset run the jupyter notebook
 
-
+```sh
+install-datasets-saab
+```
 To reproduce the results simply run
 
 ```sh
