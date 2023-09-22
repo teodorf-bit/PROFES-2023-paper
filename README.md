@@ -12,6 +12,13 @@ Simply git clone the GraphLearning package
 git clone https://github.com/jwcalder/GraphLearning.git
 ```
 
+Then git clone the saab.py file
+
+```sh
+git clone https://github.com/jwcalder/GraphLearning.git
+```
+
+
 To reproduce the results simply run
 
 ```sh
