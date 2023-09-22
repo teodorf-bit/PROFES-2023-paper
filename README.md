@@ -15,7 +15,7 @@ git clone https://github.com/jwcalder/GraphLearning.git
 Then git clone the saab.py file
 
 ```sh
-https://github.com/teodorf-bit/PROFES-2023-paper.git
+git clone https://github.com/teodorf-bit/PROFES-2023-paper.git
 ```
 
 
